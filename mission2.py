@@ -47,7 +47,7 @@ def print_dictionary_top_n(sorted_word_list, n):
 
 def word_frequency_counter(file_path, top_n):
     """
-      This function runs the full word frequency analysis:
+      Runs the full word frequency analysis:
       it reads a text file, counts how many times each word appears,
       sorts the words by frequency, and prints the top n most frequent words.
 
